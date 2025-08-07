@@ -1,4 +1,4 @@
-Twitter Financial News Sentiment Analysis
+#Twitter Financial News Sentiment Analysis
 Overview
 This project implements a sentiment analysis model for financial news tweets using the DistilBERT model from the Hugging Face Transformers library. The model classifies tweets into three sentiment categories: Bearish, Bullish, and Neutral.
 Dataset
